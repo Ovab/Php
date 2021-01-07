@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8c54da2e-28b2-46b4-b5be-87341c9ee7a6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1mh2rdydIVjxqnNnJf606kQWQFK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../wamp64/bin/php/php7.3.21/php.exe" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c54da2e-28b2-46b4-b5be-87341c9ee7a6" name="Default Changelist" comment="" />
+      <created>1609931701870</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609931701870</updated>
+      <workItem from="1609931702956" duration="544000" />
+      <workItem from="1610014228400" duration="2259000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="645" y="263" key="#CLI_Interpreters" timestamp="1610017562627">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="645" y="263" key="#CLI_Interpreters/0.0.1920.1040@0.0.1920.1040" timestamp="1610017562627" />
+    <state x="860" y="354" key="#CLI_Interpreters/0.0.2560.1400@0.0.2560.1400" timestamp="1609931930428" />
+    <state x="749" y="142" width="588" height="898" key="#PHP" timestamp="1610017565765">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="749" y="142" width="588" height="898" key="#PHP/0.0.1920.1040@0.0.1920.1040" timestamp="1610017565765" />
+    <state x="999" y="251" key="#PHP/0.0.2560.1400@0.0.2560.1400" timestamp="1609931971800" />
+    <state x="845" y="363" key="FileChooserDialogImpl" timestamp="1610017559020">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="845" y="363" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1610017559020" />
+    <state x="1114" y="619" key="NewPhpFileDialog" timestamp="1609931715464">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1114" y="619" key="NewPhpFileDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1609931715464" />
+  </component>
+</project>
