@@ -28,8 +28,8 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../wamp64/bin/php/php7.4.9" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -38,6 +38,16 @@
       <recent name="C:\Users\bavof\Documents\GitHub\Php\Opdracht3" />
       <recent name="C:\Users\bavof\Documents\GitHub\Php" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="3.6.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Php/Opdracht3/3.6.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.3.6.php" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -55,6 +65,10 @@
       <workItem from="1610437593105" duration="2063000" />
       <workItem from="1610523056362" duration="5195000" />
       <workItem from="1610537159673" duration="1479000" />
+      <workItem from="1610617513975" duration="2653000" />
+      <workItem from="1610624891707" duration="252000" />
+      <workItem from="1610625149011" duration="30000" />
+      <workItem from="1610625184601" duration="602000" />
     </task>
     <servers />
   </component>
@@ -62,37 +76,85 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="860" y="354" key="#CLI_Interpreters" timestamp="1610350708320">
+    <state x="860" y="354" key="#CLI_Interpreters" timestamp="1610625783327">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="645" y="263" key="#CLI_Interpreters/0.0.1920.1040@0.0.1920.1040" timestamp="1610017562627" />
     <state x="860" y="354" key="#CLI_Interpreters/0.0.2560.1400@0.0.2560.1400" timestamp="1609931930428" />
-    <state x="860" y="354" key="#CLI_Interpreters/2560.383.1680.1010/0.0.2560.1400@0.0.2560.1400" timestamp="1610350708320" />
+    <state x="860" y="354" key="#CLI_Interpreters/2560.383.1680.1010/0.0.2560.1400@0.0.2560.1400" timestamp="1610625783327" />
     <state x="999" y="191" width="588" height="898" key="#PHP" timestamp="1610350710384">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="749" y="142" width="588" height="898" key="#PHP/0.0.1920.1040@0.0.1920.1040" timestamp="1610017565765" />
     <state x="999" y="251" key="#PHP/0.0.2560.1400@0.0.2560.1400" timestamp="1609931971800" />
     <state x="999" y="191" key="#PHP/2560.383.1680.1010/0.0.2560.1400@0.0.2560.1400" timestamp="1610350710384" />
-    <state x="1127" y="489" key="FileChooserDialogImpl" timestamp="1610350648634">
+    <state x="1127" y="489" key="FileChooserDialogImpl" timestamp="1610625116940">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="845" y="363" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1610017559020" />
-    <state x="1127" y="489" key="FileChooserDialogImpl/2560.383.1680.1010/0.0.2560.1400@0.0.2560.1400" timestamp="1610350648634" />
+    <state x="1127" y="489" key="FileChooserDialogImpl/2560.383.1680.1010/0.0.2560.1400@0.0.2560.1400" timestamp="1610625116940" />
+    <state width="2517" height="484" key="GridCell.Tab.0.bottom" timestamp="1610624875676">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="484" key="GridCell.Tab.0.bottom/2560.383.1680.1010/0.0.2560.1400@0.0.2560.1400" timestamp="1610624875676" />
+    <state width="2517" height="484" key="GridCell.Tab.0.center" timestamp="1610624875676">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="484" key="GridCell.Tab.0.center/2560.383.1680.1010/0.0.2560.1400@0.0.2560.1400" timestamp="1610624875676" />
+    <state width="2517" height="484" key="GridCell.Tab.0.left" timestamp="1610624875676">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="484" key="GridCell.Tab.0.left/2560.383.1680.1010/0.0.2560.1400@0.0.2560.1400" timestamp="1610624875676" />
+    <state width="2517" height="484" key="GridCell.Tab.0.right" timestamp="1610624875676">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="484" key="GridCell.Tab.0.right/2560.383.1680.1010/0.0.2560.1400@0.0.2560.1400" timestamp="1610624875676" />
+    <state width="2517" height="484" key="GridCell.Tab.1.bottom" timestamp="1610624875676">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="484" key="GridCell.Tab.1.bottom/2560.383.1680.1010/0.0.2560.1400@0.0.2560.1400" timestamp="1610624875676" />
+    <state width="2517" height="484" key="GridCell.Tab.1.center" timestamp="1610624875676">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="484" key="GridCell.Tab.1.center/2560.383.1680.1010/0.0.2560.1400@0.0.2560.1400" timestamp="1610624875676" />
+    <state width="2517" height="484" key="GridCell.Tab.1.left" timestamp="1610624875676">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="484" key="GridCell.Tab.1.left/2560.383.1680.1010/0.0.2560.1400@0.0.2560.1400" timestamp="1610624875676" />
+    <state width="2517" height="484" key="GridCell.Tab.1.right" timestamp="1610624875676">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="484" key="GridCell.Tab.1.right/2560.383.1680.1010/0.0.2560.1400@0.0.2560.1400" timestamp="1610624875676" />
+    <state width="2517" height="484" key="GridCell.Tab.2.bottom" timestamp="1610624875676">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="484" key="GridCell.Tab.2.bottom/2560.383.1680.1010/0.0.2560.1400@0.0.2560.1400" timestamp="1610624875676" />
+    <state width="2517" height="484" key="GridCell.Tab.2.center" timestamp="1610624875676">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="484" key="GridCell.Tab.2.center/2560.383.1680.1010/0.0.2560.1400@0.0.2560.1400" timestamp="1610624875676" />
+    <state width="2517" height="484" key="GridCell.Tab.2.left" timestamp="1610624875676">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="484" key="GridCell.Tab.2.left/2560.383.1680.1010/0.0.2560.1400@0.0.2560.1400" timestamp="1610624875676" />
+    <state width="2517" height="484" key="GridCell.Tab.2.right" timestamp="1610624875676">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="484" key="GridCell.Tab.2.right/2560.383.1680.1010/0.0.2560.1400@0.0.2560.1400" timestamp="1610624875676" />
     <state x="1057" y="407" key="NewPhpClassDialog" timestamp="1610530626758">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1057" y="407" key="NewPhpClassDialog/2560.383.1680.1010/0.0.2560.1400@0.0.2560.1400" timestamp="1610530626758" />
-    <state x="1115" y="619" key="NewPhpFileDialog" timestamp="1610530631087">
+    <state x="1115" y="619" key="NewPhpFileDialog" timestamp="1610617942972">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="836" y="460" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1610021119993" />
     <state x="1114" y="619" key="NewPhpFileDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1609931715464" />
-    <state x="1115" y="619" key="NewPhpFileDialog/2560.383.1680.1010/0.0.2560.1400@0.0.2560.1400" timestamp="1610530631087" />
-    <state x="781" y="345" key="SettingsEditor" timestamp="1610437657566">
+    <state x="1115" y="619" key="NewPhpFileDialog/2560.383.1680.1010/0.0.2560.1400@0.0.2560.1400" timestamp="1610617942972" />
+    <state x="781" y="345" key="SettingsEditor" timestamp="1610625785979">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="781" y="345" key="SettingsEditor/2560.383.1680.1010/0.0.2560.1400@0.0.2560.1400" timestamp="1610437657566" />
+    <state x="781" y="345" key="SettingsEditor/2560.383.1680.1010/0.0.2560.1400@0.0.2560.1400" timestamp="1610625785979" />
     <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1610524119523">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
