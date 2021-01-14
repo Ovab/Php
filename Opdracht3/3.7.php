@@ -10,12 +10,10 @@
 <a href="3.6.php">Opdracht 3.6</a><br>
 </html>
 <?php
-$leeftijd=64;
-$prijs=10;
-if ($leeftijd <=3){
-    $prijs=$prijs-$prijs;
+print("De volgende momenten zijn nog beschikbaar:<ul>");
+foreach($kappersagenda as $afspraak=> $tijd) {
+if($afspraak == "") {
+print("<li>".$tijd."</li>") ;
 }
-if($leeftijd<=12 || $leeftijd>=65){
-    $prijs=$prijs/2;
 }
-echo $prijs;
+print("</ul>");

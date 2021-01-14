@@ -6,7 +6,8 @@
 <a href="3.2.php">Opdracht 3.2</a>
 <a href="3.3.php">Opdracht 3.3</a>
 <a href="3.4.php">Opdracht 3.4</a>
-<a href="3.5.php">Opdracht 3.5</a><br>
+<a href="3.5.php">Opdracht 3.5</a>
+<a href="3.6.php">Opdracht 3.6</a><br>
 </html>
 
 <?php
