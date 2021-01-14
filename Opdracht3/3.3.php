@@ -9,10 +9,7 @@
 <a href="3.5.php">Opdracht 3.5</a><br>
 </html>
 <?php
-$i=0;
-$imgnummer =1;
-echo "<h1>Trust me ik gebruik hier een loop</h1> <br>";
-for($i=0; $i<18; $i++){
-    echo  "<img src=mems/img$imgnummer.png alt='meme, ik ga niet een hele beschijving schrijven, bruh' width='300' height='300'>";
-    $imgnummer++;
+
+for ($x = 35; $x>=25; $x--){
+    echo "Hoppelepee ";
 }

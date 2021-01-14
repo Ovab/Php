@@ -9,10 +9,12 @@
 <a href="3.5.php">Opdracht 3.5</a><br>
 </html>
 <?php
-$i=0;
-$imgnummer =1;
-echo "<h1>Trust me ik gebruik hier een loop</h1> <br>";
-for($i=0; $i<18; $i++){
-    echo  "<img src=mems/img$imgnummer.png alt='meme, ik ga niet een hele beschijving schrijven, bruh' width='300' height='300'>";
-    $imgnummer++;
+$leeftijd=64;
+$prijs=10;
+if ($leeftijd <=3){
+    $prijs=$prijs-$prijs;
 }
+if($leeftijd<=12 || $leeftijd>=65){
+    $prijs=$prijs/2;
+}
+echo $prijs;

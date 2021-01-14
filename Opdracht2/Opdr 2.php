@@ -1,3 +1,10 @@
+<html>
+<a href="../index.php">Home</a>
+<a href="../Opdracht2/Opdr%202.php">Opdracht 2</a>
+<a href="3.1.php">Opdracht 3.1.1</a>
+<a href="3.1.2.php">Opdract 3.1.2</a>
+<a href="3.2.php">Opdracht 3.2</a><br>
+</html>
 <?php
 $a = "Ik heb niet gefaald";
 $b = "die niet werken";
