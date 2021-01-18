@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c54da2e-28b2-46b4-b5be-87341c9ee7a6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,10 +16,21 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP">
+    <include_path>
+      <path value="$PROJECT_DIR$" />
+    </include_path>
+  </component>
   <component name="ProjectId" id="1mh2rdydIVjxqnNnJf606kQWQFK" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -28,9 +40,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../wamp64/bin/php/php7.3.21/php.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -74,7 +87,8 @@
       <workItem from="1610625956405" duration="349000" />
       <workItem from="1610626313572" duration="648000" />
       <workItem from="1610626974687" duration="3005000" />
-      <workItem from="1610706989272" duration="2611000" />
+      <workItem from="1610706989272" duration="2851000" />
+      <workItem from="1610959985636" duration="4656000" />
     </task>
     <servers />
   </component>
@@ -82,10 +96,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="860" y="354" key="#CLI_Interpreters" timestamp="1610627934583">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state x="497" y="349" key="#CLI_Interpreters" timestamp="1610972926439">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="645" y="263" key="#CLI_Interpreters/0.0.1920.1040@0.0.1920.1040" timestamp="1610017562627" />
+    <state x="497" y="349" key="#CLI_Interpreters/0.0.1920.1040@0.0.1920.1040" timestamp="1610972926439" />
     <state x="860" y="354" key="#CLI_Interpreters/0.0.2560.1400@0.0.2560.1400" timestamp="1609931930428" />
     <state x="860" y="354" key="#CLI_Interpreters/2560.383.1680.1010/0.0.2560.1400@0.0.2560.1400" timestamp="1610627934583" />
     <state x="999" y="191" width="588" height="898" key="#PHP" timestamp="1610350710384">
@@ -98,10 +112,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="734" y="355" key="#com.intellij.execution.impl.EditConfigurationsDialog/2560.383.1680.1010/0.0.2560.1400@0.0.2560.1400" timestamp="1610626149698" />
-    <state x="1127" y="489" key="FileChooserDialogImpl" timestamp="1610627932511">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state x="845" y="363" key="FileChooserDialogImpl" timestamp="1610972497035">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="845" y="363" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1610017559020" />
+    <state x="845" y="363" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1610972497035" />
     <state x="1127" y="489" key="FileChooserDialogImpl/2560.383.1680.1010/0.0.2560.1400@0.0.2560.1400" timestamp="1610627932511" />
     <state width="2517" height="484" key="GridCell.Tab.0.bottom" timestamp="1610624875676">
       <screen x="0" y="0" width="2560" height="1400" />
@@ -155,15 +169,16 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1057" y="407" key="NewPhpClassDialog/2560.383.1680.1010/0.0.2560.1400@0.0.2560.1400" timestamp="1610530626758" />
-    <state x="836" y="460" key="NewPhpFileDialog" timestamp="1610707347529">
+    <state x="836" y="460" key="NewPhpFileDialog" timestamp="1610961918763">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="836" y="460" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1610707347529" />
+    <state x="836" y="460" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1610961918763" />
     <state x="1114" y="619" key="NewPhpFileDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1609931715464" />
     <state x="1115" y="619" key="NewPhpFileDialog/2560.383.1680.1010/0.0.2560.1400@0.0.2560.1400" timestamp="1610629539040" />
-    <state x="781" y="345" key="SettingsEditor" timestamp="1610627935635">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state x="552" y="309" key="SettingsEditor" timestamp="1610972928078">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="552" y="309" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1610972928078" />
     <state x="781" y="345" key="SettingsEditor/2560.383.1680.1010/0.0.2560.1400@0.0.2560.1400" timestamp="1610627935635" />
     <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1610524119523">
       <screen x="0" y="0" width="2560" height="1400" />
