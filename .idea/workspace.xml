@@ -26,11 +26,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP">
-    <include_path>
-      <path value="$PROJECT_DIR$" />
-    </include_path>
-  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
   <component name="ProjectId" id="1mh2rdydIVjxqnNnJf606kQWQFK" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -43,7 +39,8 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -89,6 +86,8 @@
       <workItem from="1610626974687" duration="3005000" />
       <workItem from="1610706989272" duration="2851000" />
       <workItem from="1610959985636" duration="4656000" />
+      <workItem from="1610988874811" duration="688000" />
+      <workItem from="1611046068509" duration="1237000" />
     </task>
     <servers />
   </component>
@@ -112,11 +111,11 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="734" y="355" key="#com.intellij.execution.impl.EditConfigurationsDialog/2560.383.1680.1010/0.0.2560.1400@0.0.2560.1400" timestamp="1610626149698" />
-    <state x="845" y="363" key="FileChooserDialogImpl" timestamp="1610972497035">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="1127" y="489" key="FileChooserDialogImpl" timestamp="1610988933531">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="845" y="363" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1610972497035" />
-    <state x="1127" y="489" key="FileChooserDialogImpl/2560.383.1680.1010/0.0.2560.1400@0.0.2560.1400" timestamp="1610627932511" />
+    <state x="1127" y="489" key="FileChooserDialogImpl/2560.383.1680.1010/0.0.2560.1400@0.0.2560.1400" timestamp="1610988933531" />
     <state width="2517" height="484" key="GridCell.Tab.0.bottom" timestamp="1610624875676">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -169,17 +168,17 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1057" y="407" key="NewPhpClassDialog/2560.383.1680.1010/0.0.2560.1400@0.0.2560.1400" timestamp="1610530626758" />
-    <state x="836" y="460" key="NewPhpFileDialog" timestamp="1610961918763">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="1115" y="619" key="NewPhpFileDialog" timestamp="1611046923491">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="836" y="460" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1610961918763" />
     <state x="1114" y="619" key="NewPhpFileDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1609931715464" />
-    <state x="1115" y="619" key="NewPhpFileDialog/2560.383.1680.1010/0.0.2560.1400@0.0.2560.1400" timestamp="1610629539040" />
-    <state x="552" y="309" key="SettingsEditor" timestamp="1610972928078">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="1115" y="619" key="NewPhpFileDialog/2560.383.1680.1010/0.0.2560.1400@0.0.2560.1400" timestamp="1611046923491" />
+    <state x="781" y="345" key="SettingsEditor" timestamp="1610989091607">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="552" y="309" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1610972928078" />
-    <state x="781" y="345" key="SettingsEditor/2560.383.1680.1010/0.0.2560.1400@0.0.2560.1400" timestamp="1610627935635" />
+    <state x="781" y="345" key="SettingsEditor/2560.383.1680.1010/0.0.2560.1400@0.0.2560.1400" timestamp="1610989091607" />
     <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1610524119523">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>

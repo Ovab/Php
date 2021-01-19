@@ -1,8 +1,7 @@
 <?php
-print_r($_GET);
-if ($_GET['inlognaam']==""){
+if ($_POST['inlognaam']==""){
     echo 'Please put in a username';
 }
-if ($_GET['wachtwoord']==""){
+if ($_POST['wachtwoord']==""){
     echo 'Please put in a password';
 }
