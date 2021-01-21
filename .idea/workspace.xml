@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c54da2e-28b2-46b4-b5be-87341c9ee7a6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Opdracht7/LoginPage.html" beforeDir="false" afterPath="$PROJECT_DIR$/Opdracht7/LoginPage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Opdracht7/LoginPage.php" beforeDir="false" afterPath="$PROJECT_DIR$/Opdracht7/LoginPage.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,6 +91,10 @@
       <workItem from="1611046068509" duration="4165000" />
       <workItem from="1611053770732" duration="635000" />
       <workItem from="1611126354179" duration="1903000" />
+      <workItem from="1611170838443" duration="75000" />
+      <workItem from="1611178031517" duration="423000" />
+      <workItem from="1611178501395" duration="133000" />
+      <workItem from="1611218437883" duration="4783000" />
     </task>
     <servers />
   </component>
@@ -103,6 +108,10 @@
     <state x="497" y="349" key="#CLI_Interpreters/0.0.1920.1040@0.0.1920.1040" timestamp="1610972926439" />
     <state x="860" y="354" key="#CLI_Interpreters/0.0.2560.1400@0.0.2560.1400" timestamp="1609931930428" />
     <state x="860" y="354" key="#CLI_Interpreters/2560.383.1680.1010/0.0.2560.1400@0.0.2560.1400" timestamp="1610627934583" />
+    <state x="552" y="178" key="#Deployment" timestamp="1611170901535">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Deployment/0.0.1920.1040@0.0.1920.1040" timestamp="1611170901535" />
     <state x="999" y="191" width="588" height="898" key="#PHP" timestamp="1610350710384">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -174,10 +183,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1057" y="407" key="NewPhpClassDialog/2560.383.1680.1010/0.0.2560.1400@0.0.2560.1400" timestamp="1610530626758" />
-    <state x="1115" y="619" key="NewPhpFileDialog" timestamp="1611130392366">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state x="836" y="460" key="NewPhpFileDialog" timestamp="1611229748862">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="836" y="460" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1610961918763" />
+    <state x="836" y="460" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1611229748862" />
     <state x="1114" y="619" key="NewPhpFileDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1609931715464" />
     <state x="1115" y="619" key="NewPhpFileDialog/2560.383.1680.1010/0.0.2560.1400@0.0.2560.1400" timestamp="1611130392366" />
     <state x="781" y="345" key="SettingsEditor" timestamp="1610989091607">
@@ -185,9 +194,10 @@
     </state>
     <state x="552" y="309" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1610972928078" />
     <state x="781" y="345" key="SettingsEditor/2560.383.1680.1010/0.0.2560.1400@0.0.2560.1400" timestamp="1610989091607" />
-    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1610524119523">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state x="707" y="234" width="672" height="504" key="search.everywhere.popup" timestamp="1611228977492">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="707" y="234" width="672" height="504" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1611228977492" />
     <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/2560.383.1680.1010/0.0.2560.1400@0.0.2560.1400" timestamp="1610524119523" />
   </component>
 </project>
